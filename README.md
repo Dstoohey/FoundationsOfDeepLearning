@@ -1,5 +1,5 @@
 # **Foundations of Deep Learning**
-![FoundationsOfDeepLearning Image](FoundationsOfDeepLearning.png)
+![FoundationsOfDeepLearning Image](FoundationsOfDeepLearning2.png)
 
 **Overview:**
 
