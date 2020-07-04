@@ -1,5 +1,6 @@
 # **Foundations of Deep Learning**
 ![FoundationsOfDeepLearning Image](FoundationsOfDeepLearning.png)
+
 **Overview:**
 
 This document will provide a sense of the general motivation for the project. It will also explain, at a high level, the technologies used and techniques deployed, as well as potential takeaways and areas for further improvement/exploration.
